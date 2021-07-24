@@ -1,1 +1,3 @@
-# Pythonlearning
+# Pythonlearnin
+
+little receipts prject.
